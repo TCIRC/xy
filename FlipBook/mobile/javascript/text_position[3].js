@@ -1,0 +1,1 @@
+﻿positionForPages[3]={page:3,positions:[{word:"百十一中部",left:0.259273,top:0.270729,width:0.477974,height:0.079912},{word:"電資寒訓",left:0.309044,top:0.351451,width:0.382322,height:0.079864},{word:"營手冊",left:0.370018,top:0.484473,width:0.257609,height:0.071781},{word:"01",left:0.938906,top:0.969335,width:0.043493,height:0.030242}]};

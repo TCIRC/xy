@@ -1,0 +1,1 @@
+﻿positionForPages[19]={page:19,positions:[{word:"教學",left:0.271119,top:0.297494,width:0.457838,height:0.191338},{word:"講義",left:0.271119,top:0.471694,width:0.457895,height:0.191386},{word:"17",left:0.938906,top:0.969335,width:0.043493,height:0.030242}]};

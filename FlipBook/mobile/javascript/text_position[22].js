@@ -1,0 +1,1 @@
+﻿positionForPages[22]={page:22,positions:[{word:"教學講義",left:0.394689,top:0.093592,width:0.210755,height:0.044045},{word:"Telegram ",left:0.268426,top:0.525608,width:0.253316,height:0.043997},{word:"教學群組",left:0.520833,top:0.525608,width:0.210698,height:0.043997},{word:"20",left:0.938906,top:0.969335,width:0.043493,height:0.030242}]};
